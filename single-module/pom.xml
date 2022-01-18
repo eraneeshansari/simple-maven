@@ -163,7 +163,7 @@
     <connection>scm:git:git@github.com:eraneeshansari/maven-samples.git</connection>
     <developerConnection>scm:git:git@github.com:eraneeshansari/maven-samples.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/eraneeshasnari/maven-samples</url>
+    <url>http://github.com/eraneeshansari/maven-samples</url>
   </scm>
 
   <prerequisites>
